@@ -26,7 +26,7 @@ if st.button("Generate Email"):
             f"Add subject line without fail at the begining of the email."
         )
 
-        # Use the Gemini SDK to generate the response
+        # Use the Gemini SDK to generate the response of a Email.
         model = genai.GenerativeModel(model_name='gemini-pro')
         genai.configure(api_key=gemini_api_key)
         response = model.generate_content(prompt)
