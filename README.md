@@ -3,6 +3,7 @@ Personalized Marketing Email Generator
 CRAFT TAILORED EMAILS EFFORTLESSLY TURN CUSTOMER INSIGHTS INTO IMPACTFUL CONNECTIONS.
 
 **Overview**
+
 The Personalized Marketing Email Generator leverages Google Generative AI technology to create tailored marketing emails. This app simplifies the
 process of writing customer-specific emails by allowing users to input customer names, product details, and product features, along with
 selecting a tone. The output is a ready-to-use, professionally written email that aligns with the user’s requirements.
